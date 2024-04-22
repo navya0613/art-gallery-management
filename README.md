@@ -1,0 +1,1 @@
+This is a web appilaction for art gallery management. This was created by taking Elizabesth Moss Galleries website as a reference. It uses HTMl, CSS, Bootstrap, Javascript, Jquery, PHP and Mysql. This project runs only on xampp server.
